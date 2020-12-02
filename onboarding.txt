@@ -1,0 +1,30 @@
+Plan rutinas:
+
+-Grupo los simples de hangouts para crear charlas en meet.(Se requiere el email del nuevo integrante).Siempre que se vaya a realizar una reunión en grupo se hace uso de esta vía.
+
+-Para compartir documentación se usará el chat del propio meet o el grupo2 de texto de Discord.
+
+-Disponemos de un grupo de Whatsapp.(Debe añadirse al nuevo integrante).
+
+-Disponemos de un Gmail y un Github propio del grupo.(Dar datos de acceso de ambos al nuevo integrante).
+
+-Todas las retros que hagamos se guardarán en el repositorio onboarding.
+
+-Dinámica de trabajo:
+    
+    *Planteamos y estudiamos el problema para encontrar posibles soluciones.
+    
+    *Evaluamos realizar spike formativos sobre el tema.
+    
+    *Actualmente usamos mobprograming.
+    
+    *En el código se priorizarán las buenas prácticas y la simplicidad del código.
+    
+    *Se realiza un estudio, posible refactor, en conjunto del código para garantizar que todos los integrantes lo comprenden. Nunca se entregará una parte o proyecto si uno solo de los integrantes no es capaz de replicarlo.
+    
+
+Plan crecimiento:
+
+-Aspiramos a un trabajo de reparto de tareas mas independiente.
+
+-Cada integrante intentará realizar las tareas en las que tenga menos conocimientos.
