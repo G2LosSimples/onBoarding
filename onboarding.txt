@@ -21,6 +21,8 @@ Plan rutinas:
     *En el código se priorizarán las buenas prácticas y la simplicidad del código.
     
     *Se realiza un estudio, posible refactor, en conjunto del código para garantizar que todos los integrantes lo comprenden. Nunca se entregará una parte o proyecto si uno solo de los integrantes no es capaz de replicarlo.
+
+    *De manera voluntaria los miembros podran preparar píldoras sobre la temática elegida, según necesidad, por el grupo.
     
 
 Plan crecimiento:
