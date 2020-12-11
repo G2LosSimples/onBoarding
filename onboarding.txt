@@ -10,7 +10,7 @@ Plan rutinas:
 
 -Todas las retros que hagamos se guardarán en el repositorio onboarding.
 
--Dinámica de trabajo:
+-Dinámica de trabajo: 
     
     *Planteamos y estudiamos el problema para encontrar posibles soluciones.
     
